@@ -132,7 +132,7 @@ Ce qui lance une application web dans votre navigateur :
 ![fenêtre initiale jupyter lab](./jupyter-lab-first-screen.png)
 
 Double-cliquez sur `muon-eta-distribution.ipynb` dans le panneau de gauche et vous êtes prêts à démarrer !
-Pensez à sauvgarder vos changements le plus souvant possible. Pour quitter le notebook, il suffit de faire "Fichier/LogOut".
+Pensez à sauvgarder vos changements le plus souvant possible. Pour quitter le notebook, il suffit de faire "File" puis "LogOut".
 
 
 ## Installation cloud 
